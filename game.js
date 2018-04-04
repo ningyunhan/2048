@@ -1,6 +1,4 @@
-/**
- * Created by JYL on 2014/6/8.
- */
+
 $(document).keydown(function (event) {
     switch (event.keyCode) {
         case 37://left

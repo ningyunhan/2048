@@ -1,6 +1,4 @@
-/**
- * Created by JYL on 2014/6/8.
- */
+
 function ShowNumberWithAnimation(i, j, randNumber) {
     var numberCell = $("#number-cell-" + i + "-" + j);
 

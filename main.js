@@ -1,6 +1,4 @@
-/**
- * Created by JYL on 2014/6/8.
- */
+
 var board = new Array();
 var hasConflicted = new Array();
 var score = 0;
@@ -12,6 +10,7 @@ $(function () {
 function newgame() {
     //初始化棋盘格
     init();
+    score = 0;
     //在随机两个格子生成数字
     generateOneNumber();
     generateOneNumber();

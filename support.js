@@ -1,6 +1,3 @@
-/**
- * Created by JYL on 2014/6/8.
- */
 
 function getPosTop(i, j) {
     return 20 + i * 120;
